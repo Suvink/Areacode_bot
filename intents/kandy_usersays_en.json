@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16572d8e-9345-4c91-bae7-0ce189289200",
+    "data": [
+      {
+        "text": "kandy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524117400
+  },
+  {
+    "id": "3c71dfee-6c39-49db-8457-1ea5ebdaa873",
+    "data": [
+      {
+        "text": "nuwara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524117400
+  },
+  {
+    "id": "04327444-5993-4ee5-9b4d-d2efbbd420df",
+    "data": [
+      {
+        "text": "nawalapitiya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524117400
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bd75c9f2-0b49-468a-89f7-170df69ee490",
+    "data": [
+      {
+        "text": "meegamuwa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524116946
+  },
+  {
+    "id": "62e71741-9585-4d8e-91ae-d8ce0ab204a4",
+    "data": [
+      {
+        "text": "negombo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524116946
+  },
+  {
+    "id": "810fa30c-1094-42d6-9977-8113fcce1fbe",
+    "data": [
+      {
+        "text": "gampaha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524116946
+  }
+]

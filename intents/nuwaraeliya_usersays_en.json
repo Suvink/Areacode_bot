@@ -1,0 +1,38 @@
+[
+  {
+    "id": "927e161d-6353-4507-9eb0-ed3cef44cb90",
+    "data": [
+      {
+        "text": "hatton",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524117144
+  },
+  {
+    "id": "1cbb926c-7059-41b1-832b-502a73dfe019",
+    "data": [
+      {
+        "text": "Nuwaraeliya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524117144
+  },
+  {
+    "id": "c3ac6b28-8660-459a-96b9-a1ed46ce8efa",
+    "data": [
+      {
+        "text": "Nuwara Eliya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524117144
+  }
+]

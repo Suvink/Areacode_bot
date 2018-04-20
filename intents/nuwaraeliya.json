@@ -1,0 +1,28 @@
+{
+  "id": "d310e4cf-d5ae-4d75-9dc7-c6de315e066a",
+  "name": "nuwaraeliya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area codes for Nuwara Eliya district: 052 (Nuwara Eliya)  | 051 (Hatton)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117144,
+  "fallbackIntent": false,
+  "events": []
+}

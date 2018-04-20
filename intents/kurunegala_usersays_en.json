@@ -1,0 +1,26 @@
+[
+  {
+    "id": "967aae17-41c8-4b5e-a707-16b77869fc14",
+    "data": [
+      {
+        "text": "kurunagala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524117519
+  },
+  {
+    "id": "ea7a10dd-5fb3-41fd-ad0e-de1037e16d69",
+    "data": [
+      {
+        "text": "kurunegala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524117519
+  }
+]

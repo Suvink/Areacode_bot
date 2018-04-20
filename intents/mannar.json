@@ -1,0 +1,28 @@
+{
+  "id": "b478d45c-5224-4407-8e9c-01b0d4f2ff34",
+  "name": "mannar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area codes for Mannar district: 023"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117567,
+  "fallbackIntent": false,
+  "events": []
+}

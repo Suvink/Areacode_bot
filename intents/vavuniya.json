@@ -1,0 +1,28 @@
+{
+  "id": "44881bf7-55cf-4efd-b960-6b5e06d931fd",
+  "name": "vavuniya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Vavuniya district:  024"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117928,
+  "fallbackIntent": false,
+  "events": []
+}

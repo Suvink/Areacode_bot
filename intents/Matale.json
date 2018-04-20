@@ -1,0 +1,28 @@
+{
+  "id": "80086e7a-efdf-405e-bb65-c70ad7e59e63",
+  "name": "Matale",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Matale district:  066"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117625,
+  "fallbackIntent": false,
+  "events": []
+}

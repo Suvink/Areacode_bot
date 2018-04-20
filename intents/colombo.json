@@ -1,0 +1,28 @@
+{
+  "id": "6c7499ad-52a9-4433-accb-0b1a979c2235",
+  "name": "colombo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area codes for Colombo district:  011 (Colombo)  | 036 (Awissawella)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524116547,
+  "fallbackIntent": false,
+  "events": []
+}

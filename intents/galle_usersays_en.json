@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a7be18f9-fb74-4148-a2c8-90f8a93ee390",
+    "data": [
+      {
+        "text": "galla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524116086
+  },
+  {
+    "id": "1fe5f659-a051-40bd-86cf-ee6980d6ba88",
+    "data": [
+      {
+        "text": "Galle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524116086
+  }
+]

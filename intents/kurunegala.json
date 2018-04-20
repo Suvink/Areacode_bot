@@ -1,0 +1,28 @@
+{
+  "id": "14cb3a50-7239-4bac-9a45-2167f59263e1",
+  "name": "kurunegala",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area codes for Kurunegala district: 037"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117519,
+  "fallbackIntent": false,
+  "events": []
+}

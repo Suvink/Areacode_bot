@@ -1,0 +1,28 @@
+{
+  "id": "302763cd-2f13-4194-aa17-c3b106ecd0c3",
+  "name": "kandy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area codes for Kandy district: 081 (Kandy)  | 054 (Nawalapitiya)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117400,
+  "fallbackIntent": false,
+  "events": []
+}

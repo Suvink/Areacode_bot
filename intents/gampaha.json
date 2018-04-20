@@ -1,0 +1,28 @@
+{
+  "id": "f92e3c6c-b27c-4653-b042-f334c6b26860",
+  "name": "gampaha",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area codes for Gampaha district: 033 (Gampaha)  | 031 (Negombo)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524116946,
+  "fallbackIntent": false,
+  "events": []
+}

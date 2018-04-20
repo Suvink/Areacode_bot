@@ -1,0 +1,28 @@
+{
+  "id": "d00832cb-987f-4d42-bd2f-e9d13a5606f2",
+  "name": "ampara",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area codes for Ampara district: 063 (Ampara) |  067 (Kalmunai)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524116582,
+  "fallbackIntent": false,
+  "events": []
+}

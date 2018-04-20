@@ -1,0 +1,28 @@
+{
+  "id": "1bd81d16-3e54-4313-8da7-1d4635dee6c2",
+  "name": "trincomalee",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Trincomalee district: 026"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117839,
+  "fallbackIntent": false,
+  "events": []
+}

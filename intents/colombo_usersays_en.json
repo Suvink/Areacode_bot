@@ -1,0 +1,50 @@
+[
+  {
+    "id": "61ac5be4-a285-4cfb-bfa0-5df27067dfbe",
+    "data": [
+      {
+        "text": "awissawella",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524116547
+  },
+  {
+    "id": "b55876d9-772a-4558-be80-25756f46eb5f",
+    "data": [
+      {
+        "text": "cmb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524116429
+  },
+  {
+    "id": "19bce760-47af-4b81-a3c0-a37f81bc69ec",
+    "data": [
+      {
+        "text": "kolamba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524116429
+  },
+  {
+    "id": "0936512b-1fd0-4d4d-9171-aea9afbcc5b5",
+    "data": [
+      {
+        "text": "colombo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524116429
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "70f54df6-ecc7-445b-8931-2a2064cddd8d",
+  "name": "batticaloa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Batticaloa district: 065"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524116713,
+  "fallbackIntent": false,
+  "events": []
+}

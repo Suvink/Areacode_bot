@@ -1,0 +1,28 @@
+{
+  "id": "dbaca62d-b320-4e43-b2ab-1d4a9131b29e",
+  "name": "panadure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area codes for Kaluthara district: 034 (Kaluthara)  | 083 (Panadura)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117316,
+  "fallbackIntent": false,
+  "events": []
+}

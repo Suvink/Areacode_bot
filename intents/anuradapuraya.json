@@ -1,0 +1,28 @@
+{
+  "id": "45e2d07e-d7f4-46ba-92e4-4488ce582d96",
+  "name": "anuradapuraya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Anuradhapura district: 025"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524116345,
+  "fallbackIntent": false,
+  "events": []
+}

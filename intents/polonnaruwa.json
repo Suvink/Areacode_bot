@@ -1,0 +1,28 @@
+{
+  "id": "bf2b0967-54ef-4d65-aca2-31ea666b498d",
+  "name": "polonnaruwa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Polonnaruwa district:  027"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117726,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4e8d38ec-c006-4b5a-af04-f8da44a30f01",
+  "name": "hambantota",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Hambantota district: 047"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117012,
+  "fallbackIntent": false,
+  "events": []
+}

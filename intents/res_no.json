@@ -1,0 +1,28 @@
+{
+  "id": "263906dd-7863-4926-bf78-5e47f2256b49",
+  "name": "res_no",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay! See you next time. Cheers!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524115935,
+  "fallbackIntent": false,
+  "events": []
+}

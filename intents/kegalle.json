@@ -1,0 +1,28 @@
+{
+  "id": "1ead9e0b-c68f-49d3-95ea-2aa5a1c87915",
+  "name": "kegalle",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Kegalle district: 035"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117466,
+  "fallbackIntent": false,
+  "events": []
+}

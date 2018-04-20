@@ -1,0 +1,28 @@
+{
+  "id": "60283c09-eb94-4fb1-a0d6-05f6685839a4",
+  "name": "galle",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Galle district : 091"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524116208,
+  "fallbackIntent": false,
+  "events": []
+}

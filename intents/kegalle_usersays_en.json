@@ -1,0 +1,38 @@
+[
+  {
+    "id": "328a42e9-3ce2-476f-b8dd-7dddabc2fb14",
+    "data": [
+      {
+        "text": "kagalla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524117466
+  },
+  {
+    "id": "e9867c00-7e42-4066-9116-f6ae21e63d37",
+    "data": [
+      {
+        "text": "kegalla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524117466
+  },
+  {
+    "id": "84921a35-ce02-4bc9-ad3f-7962df921417",
+    "data": [
+      {
+        "text": "kegallekag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524117466
+  }
+]

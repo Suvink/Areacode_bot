@@ -1,0 +1,28 @@
+{
+  "id": "a74c3e5e-c3df-4552-a2d5-79ecf8cb67cc",
+  "name": "ratnapura",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Ratnapura district: 045"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117782,
+  "fallbackIntent": false,
+  "events": []
+}

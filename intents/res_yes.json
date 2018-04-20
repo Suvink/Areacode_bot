@@ -1,0 +1,28 @@
+{
+  "id": "eb074e74-d8f0-4c7b-bf56-8bf7e8037505",
+  "name": "res_yes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay! Tell me which district you want to find area code."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524115647,
+  "fallbackIntent": false,
+  "events": []
+}

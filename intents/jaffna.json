@@ -1,0 +1,28 @@
+{
+  "id": "a9cc7714-b842-4505-b516-c4561a001cca",
+  "name": "jaffna",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Jaffna district: 021"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117233,
+  "fallbackIntent": false,
+  "events": []
+}

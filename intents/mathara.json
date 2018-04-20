@@ -1,0 +1,28 @@
+{
+  "id": "313698e8-5e4c-46b8-be25-43eba32db0f5",
+  "name": "mathara",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Area code for Matara district:  041"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524117674,
+  "fallbackIntent": false,
+  "events": []
+}
